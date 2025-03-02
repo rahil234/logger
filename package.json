@@ -1,0 +1,15 @@
+{
+  "name": "express-logr",
+  "version": "1.0.0",
+  "description": "This is a simple request logger middleware for express",
+  "main": "dist/index.js",
+  "repository": {
+    "url": ""
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.3"
+  }
+}
